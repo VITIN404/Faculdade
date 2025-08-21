@@ -1,0 +1,14 @@
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\bin\Debug\net8.0\csharp3.exe
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\bin\Debug\net8.0\csharp3.deps.json
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\bin\Debug\net8.0\csharp3.runtimeconfig.json
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\bin\Debug\net8.0\csharp3.dll
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\bin\Debug\net8.0\csharp3.pdb
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\csharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\csharp3.AssemblyInfoInputs.cache
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\csharp3.AssemblyInfo.cs
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\csharp3.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\csharp3.dll
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\refint\csharp3.dll
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\csharp3.pdb
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\csharp3.genruntimeconfig.cache
+C:\Users\WIN 10 PRO\source\csharp\csharp3\csharp3\obj\Debug\net8.0\ref\csharp3.dll
